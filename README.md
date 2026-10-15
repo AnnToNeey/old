@@ -41,7 +41,7 @@ Passionate about *building scalable software, solving complex problems, and cont
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yourusername)  
  [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/myrad.visuals)
  
-🎯 Goals for 2025  
+🎯 Goals for 2026  
 ✅ Contribute to *10+ open-source projects*  
 ✅ Build a *SaaS product*  
 ✅ Write *technical blog posts*  
