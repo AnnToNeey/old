@@ -1,5 +1,5 @@
 👋 Hey, I'm Anthony 
-💻 Full-Stack Developer | Open-Source Contributor | Tech Enthusiast
+💻 Data  | Open-Source Contributor | Tech Enthusiast
 📍 Based in Nigeria | 🌐 
  | ✉️ *Contact:* uzobidigbo247@gmail.com
 
